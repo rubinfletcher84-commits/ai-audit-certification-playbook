@@ -1,30 +1,42 @@
 # AI Audit Checklist & Certification Playbook
 
-A practical field guide for auditing organizational use of artificial intelligence, assessing AI control maturity, and preparing for AI-management certification readiness.
+A practical AI governance, audit, and certification-readiness toolkit for evaluating how organizations develop, procure, deploy, and use artificial intelligence.
 
-## Overview
-This project turns major AI governance and assurance frameworks into a working audit packet for internal auditors, security teams, compliance leads, consultants, and future certifying assessors.
+## Why this project exists
+Organizations are adopting AI faster than many of them can govern it. A lot of guidance exists, but teams still need field-ready material they can actually use for audit, control testing, and certification readiness.
 
-It is built around the clearest current organizational certification route for AI governance: **ISO/IEC 42001**, with supporting audit lenses from:
+This project turns major AI governance and assurance frameworks into a usable audit toolkit.
 
+## Core frameworks used
 - NIST AI RMF
+- ISO/IEC 42001
 - ISO/IEC 23894
 - ISO/IEC 42005
 - NIST AI RMF Generative AI Profile
 - EU AI Act basics
 
-## What’s included
-- AI Audit Checklist & Certification Playbook in PDF and DOCX format
-- Audit methodology
-- Pre-audit evidence request list
-- AI governance and control-domain checklists
-- Generative AI deep-dive checklist
-- ISO/IEC 42001 certification readiness workflow
-- Findings register structure
-- 30 / 60 / 90 day remediation planning model
+## What this repository includes
+- Full AI Audit Checklist & Certification Playbook in PDF and DOCX
+- Governance and accountability checklist
+- Generative AI control checklist
+- AI vendor assurance checklist
+- ISO/IEC 42001 certification readiness checklist
+- Sample AI findings register
+- Sample AI inventory register
+- Project overview summary
 
-## Project goal
-The goal of this project is to bridge the gap between high-level AI governance frameworks and field-ready audit material that organizations can actually use.
+## What the playbook helps assess
+- AI governance and accountability
+- AI inventory and use-case classification
+- Risk management and impact assessment
+- Data governance and privacy
+- Security, resilience, and misuse resistance
+- Human oversight and decision controls
+- Transparency and documentation
+- Monitoring, evaluation, and incident response
+- Third-party AI and vendor assurance
+- Generative AI and LLM-specific control testing
+- Certification readiness for an AI management system
 
 ## Intended audience
 - AI governance teams
@@ -35,6 +47,12 @@ The goal of this project is to bridge the gap between high-level AI governance f
 - Consultants
 - Professionals preparing for AI assurance or certification-related work
 
-## Status
-Version 1.0 — foundational playbook published.
-Future updates may include sample inventory templates, findings trackers, case studies, and scoring tools.
+## Repository structure
+```text
+ai-audit-certification-playbook/
+├── docs/
+├── checklists/
+├── samples/
+├── images/
+├── README.md
+└── PROJECT_OVERVIEW.md
