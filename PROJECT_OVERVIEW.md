@@ -38,3 +38,19 @@ Organizations are adopting AI faster than many of them can govern it. This proje
 - case-study scenario pack
 - GenAI red-team appendix
 - simple scoring dashboard
+
+## Planned roadmap
+### Version 1.1
+- Add Excel-based audit workbook
+- Add sample maturity scorecard
+- Add mock client case study
+
+### Version 1.2
+- Add generative AI testing scenarios
+- Add AI risk interview worksheet
+- Add vendor review worksheet
+
+### Version 2.0
+- Build a lightweight scoring dashboard
+- Create sector-specific audit packs
+- Add internal audit and consultant editions
