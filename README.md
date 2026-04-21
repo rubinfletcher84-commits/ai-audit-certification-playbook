@@ -56,3 +56,19 @@ ai-audit-certification-playbook/
 ├── images/
 ├── README.md
 └── PROJECT_OVERVIEW.md
+
+## Project Artifacts
+
+This repository includes a sample Excel-based AI audit workbook built as part of the AI Audit Checklist & Certification Playbook project.
+
+**Included workbook sections:**
+- Instructions
+- AI Inventory
+- Control Testing
+- Findings Register
+- Maturity Scoring
+- 30-60-90 Plan
+- Certification Readiness
+- Summary Dashboard
+
+> Disclaimer: This workbook is a personal project for learning and portfolio development. It does not represent a real audit, real client data, or real organizational information.
